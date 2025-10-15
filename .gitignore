@@ -1,0 +1,62 @@
+# Binaries
+Binaries/
+*.exe
+*.dll
+*.pdb
+
+# Intermediate
+Intermediate/
+Build/
+DerivedDataCache/
+
+# Saved
+Saved/
+*.sav
+*.log
+*.umap
+*.uasset
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.xcodeproj/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+*.opensdf
+*.sdf
+*.sop
+*.VC.db
+*.proj
+*.idea/
+.vs/
+
+# UE Specific
+*.pch
+*.obj
+*.ilk
+*.aps
+*.ncb
+*.idb
+
+# Cooked and staged builds
+Saved/Cooked/
+Saved/StagedBuilds/
+
+# Shaders
+Saved/Shaders/
+
+# Autosaves
+Saved/Autosaves/
+
+# Large content packs
+Content/StarterContent/
+Content/Characters/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
